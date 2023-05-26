@@ -1,1 +1,1 @@
-# fat_classification_CNN
+# AtrialFat_classification_CNN
