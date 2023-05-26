@@ -1,9 +1,9 @@
 # Introduction
 
-Cardiac CT scans in DICOM format used as input, fat present in left atrium classified using a Convolutional Neural Network.
+Fat present in left atrium classified using a Convolutional Neural Network using Cardiac CT scans in DICOM format used as input.
 
 # How to run
-Install libraries like numpy, sklearn, pytorch
+Install libraries like numpy, sklearn, pytorch, & pydicom
 ```
 python3 cnn.py
 ```
